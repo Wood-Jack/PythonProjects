@@ -1,0 +1,55 @@
+
+
+Truth Table 1:
+
+P | Q | not (P or Q)
+T | T | F
+T | F | F
+F | T | F 
+F | F | T
+
+Truth Table 2:
+
+P| Q | R | P and Q or R
+F| F | F | F
+F| F | T | T
+F| T | F | F
+F| T | T | T
+T| F | F | F
+T| F | T | T
+T| T | F | T
+T| T | T | T
+
+Truth Table 3:
+ 
+
+P| Q | R | not P or not Q and not R
+F| F | F | T
+F| F | T | T
+F| T | F | T
+F| T | T | T
+T| F | F | T
+T| F | T | F
+T| T | F | F
+T| T | T | F
+
+Truth Table 4:
+
+P| Q | R | S | P and Q or R and S |
+F| F | F | F | F
+F| F | F | T | F
+F| F | T | F | F
+F| F | T | T | T
+F| T | F | F | F
+F| T | F | T | F
+F| T | T | F | F
+F| T | T | T | T
+T| F | F | F | F
+T| F | F | T | F
+T| F | T | F | F
+T| F | T | T | T
+T| T | F | F | T
+T| T | F | T | T
+T| T | T | F | T
+T| T | T | T | T
+
