@@ -1,0 +1,4 @@
+5000 items   
+ Standard time = 0.0 seconds 
+ SelSort time = 2.31 seconds 
+ MergeSort time = 5000 
